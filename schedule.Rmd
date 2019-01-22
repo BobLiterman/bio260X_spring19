@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-output: 
+output:
   html_document:
     toc: true
     toc_depth: 2
@@ -15,22 +15,11 @@ library(kableExtra)
 ## Meeting Schedule and Overview
 
 ```{r, warning=FALSE}
-Week <- c(1:13)
-Topic <- c("Intro and Shiny","Shiny Basics", "Effective Outreach",
-             "Design Basics","Graphic Design","Class work time",
-             "Draft presentations","Class work time","Class work time",
-           "Class work time","Class work time",
-             "Presentations","Presentations")
-Speaker <- c("Instructors","Dekker", "Menezes", 
-             "Ferria", "Carubin","Instructors",
-             "Students","Instructors","Instructors",
-             "Instructors","Instructors",
-           "Students", "Students")
-Reading <- c("", "p. 1-16", "p. 23-43", "p. 539-547", "p. 149-167", 
-             "p. 43-46", "p. 65-73, 96-107", "p. 73-80, 338-340", "p. 176-177",
-             "p. 423-445", "p. 459-473", "p. 115-116", 
-             "p. 503-512, 201-202")
- 
+Week <- c(1:3)
+Topic <- c("Intro","Using genomes to understand the tree of life","Week 2 Discussion")
+Speaker <- c("Instructors","Bob Literman","Instructors")
+Reading <- c("", "", "")
+
 meetings <- cbind(Week, Topic, Speaker, Reading)
 
 kable(meetings, "html") %>%  

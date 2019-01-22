@@ -1,6 +1,6 @@
 ---
 title: "About Class"
-output: 
+output:
   html_document:
     toc: true
     toc_depth: 2
@@ -14,48 +14,32 @@ library(kableExtra)
 ```
 
 **Instructors**:  
+Bob Literman
+literman@uri.edu
+
 Rachel Schwartz  
-CBLS 377  
-4-5404  
-rsschwartz@uri.edu 
-
-Harrison Dekker  
-
-Jeff Hollister  
-
+rsschwartz@uri.edu
 
 Please note that instructors will do their best to respond promptly between 9-5 on weekdays.
 
-**Office Hours**: TBD   
-Please feel free to come by without an appointment during this time. To talk with me during other times please set up a meeting by email.
+**Office Hours**: No official office hours   
+Please feel free to email anytime to set up an appointment.
 
-**Class Days / Time**: Th 9-10am CBLS 435
+**Class Days / Time**: Wednesdays, 11-11:50am CBLS 435
 
-**Prerequisites**: Experience with R
+**Prerequisites**: BIO102 or permission of instructor
 
-**Recommended texts**:  
-Basic and advanced R:  
-* [Modern Dive](https://moderndive.com/)  
-* [R For Data Science](https://r4ds.had.co.nz/)
+**Recommended texts**: None
+All supplemental materials will be distributed online.
 
-Data Viz:  
-* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)
-
-**Other equipment / material requirements**:
-Laptop, Tablet, or Chromebook with internet access. Please contact the instructor if you do not have a laptop and purchasing one would be a financial difficulty. Laptops are available for use in class upon request.
+**Other equipment / material requirements**: Note-taking tools
+Laptops and phones are permitted
 
 **Assignments**:  
-Build a Shiny app
+250-word responses to each speaker
 
-**Grades**:
-
-```{r}
-Grade <- c("A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "F") 
-Points <- c("940-1000", "900-939", "870-899", "830-869", "800-829", "770-799", "730-769", 
-            "700-729", "670-699", "600-669", "<600")
-
-kable(cbind(Grade,Points), "html") %>%  
-  kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
+**Grades**: S/U scale
+5 satisfactory assignments earns a 'Satisfactory' grade
 
 ```
 
