@@ -9,7 +9,7 @@ output:
     toc_float: true
     theme: cosmo
 ---
-<a href="https://github.com/rhodyrstats/bio260X_spring19"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/bobliterman/bio260X_spring19"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
 ## Overview
 This course is intended to introduce students to how local working scientists ask and answer contemporary questions in biology. Students will hear talks from New England-area researchers on a variety of topics. In addition to the biological findings, in Spring 2019 our speakers will also highlight how learning computational skills has enabled them to better address their questions. Question-and-Answer sessions will give students the opportunity to ask both broad and specific questions as it relates to the speakers' research path.
