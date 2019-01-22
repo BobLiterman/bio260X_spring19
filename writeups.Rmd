@@ -12,7 +12,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ## Assignment Description  
-The repeating schedule blocks for this class are set up into six sets of two classes. During the first class, students will hear a seminar-style talk. In the following week, instructors and students will have a follow-up discussion to not only answer specific questions about the talk, but also to put the findings in a larger context. After the follow-up discussion and before the next speaker, students will turn in a response (minimum 250 words) that addresses:  
+The repeating schedule blocks for this class are set up into six sets of two classes. During the first class, students will hear a seminar-style talk. In the following week, instructors and students will have a follow-up discussion to not only answer specific questions about the talk, but also to put the findings in a larger context.  
+
+# After the follow-up discussion and before the next speaker, students will turn in a response (minimum 250 words) that addresses:  
 
 1. A succinct summary of the research presented  
 2. A brief description of how computational tools were used to address the speakers’ questions  
