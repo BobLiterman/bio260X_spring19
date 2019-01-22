@@ -15,31 +15,31 @@ library(kableExtra)
 
 **Instructors**:  
 Bob Literman  
-literman@uri.edu
+literman@uri.edu  
 
 Rachel Schwartz  
-rsschwartz@uri.edu
+rsschwartz@uri.edu  
 
-Please note that instructors will do their best to respond promptly between 9-5 on weekdays.
+Please note that instructors will do their best to respond promptly between 9-5 on weekdays.  
 
-**Office Hours**: No official office hours   
-Please feel free to email anytime to set up an appointment.
+**Office Hours**: No official office hours  
+Please feel free to email anytime to set up an appointment.  
 
-**Class Days / Time**: Wednesdays, 11-11:50am CBLS 435
+**Class Days / Time**: Wednesdays, 11-11:50am CBLS 435  
 
-**Prerequisites**: BIO102 or permission of instructor
+**Prerequisites**: BIO102 or permission of instructor  
 
-**Recommended texts**: None   
-All supplemental materials will be distributed online.
+**Recommended texts**: None  
+All supplemental materials will be distributed online.  
 
-**Other equipment / material requirements**: Note-taking tools   
-Laptops and phones are permitted
+**Other equipment / material requirements**: Note-taking tools  
+Laptops and phones are permitted  
 
 **Assignments**:  
-250-word responses to each speaker
+250-word responses to each speaker  
 
-**Grades**: S/U scale   
-5 satisfactory assignments earns a 'Satisfactory' grade
+**Grades**: S/U scale  
+5 satisfactory assignments earns a 'Satisfactory' grade  
 
-**Special note**:
-If you, or anyone you know, is at risk of going hungry please visit the Rhody Outpost, a food pantry operated by URI. Rhody Outpost is open twice per month at St. Augustine Church at 15 Lower College Rd. For open hours see https://web.uri.edu/deanofstudents/rhody-outpost/ . Rhody Outpost protects the privacy of all visitors. Students may also visit the Jonnycake Center in Peace Dale.
+**Special note**:  
+If you, or anyone you know, is at risk of going hungry please visit the Rhody Outpost, a food pantry operated by URI. Rhody Outpost is open twice per month at St. Augustine Church at 15 Lower College Rd. For open hours see https://web.uri.edu/deanofstudents/rhody-outpost/ . Rhody Outpost protects the privacy of all visitors. Students may also visit the Jonnycake Center in Peace Dale.  
