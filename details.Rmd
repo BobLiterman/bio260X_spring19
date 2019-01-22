@@ -14,7 +14,7 @@ library(kableExtra)
 ```
 
 **Instructors**:  
-Bob Literman
+Bob Literman  
 literman@uri.edu
 
 Rachel Schwartz  
@@ -40,8 +40,6 @@ Laptops and phones are permitted
 
 **Grades**: S/U scale
 5 satisfactory assignments earns a 'Satisfactory' grade
-
-```
 
 **Special note**:
 If you, or anyone you know, is at risk of going hungry please visit the Rhody Outpost, a food pantry operated by URI. Rhody Outpost is open twice per month at St. Augustine Church at 15 Lower College Rd. For open hours see https://web.uri.edu/deanofstudents/rhody-outpost/ . Rhody Outpost protects the privacy of all visitors. Students may also visit the Jonnycake Center in Peace Dale.
