@@ -17,7 +17,7 @@ library(kableExtra)
 ```{r, warning=FALSE}
 Week <- c(1:5)
 Date <- c("01/23","01/30","02/06","02/13","02/20")
-Topic <- c("Intro","Using Genomes to Understand the Tree of Life","Week 2 Discussion","Oyster Genomes: Out of the Shell","Week 4 Discussion")
+Topic <- c("Intro","Using Genomes to Understand the Tree of Life","Week 2 Discussion","Integrating 'Omics, Aquaculture, and Parasitology to Investigate Eastern Oyster Immunity to Disease","Week 4 Discussion")
 Speaker <- c("Instructors","Bob Literman","Instructors","Erin Roberts","Instructors")
 Assignment <- c("","","","Week 2 Write-Up","")
 
