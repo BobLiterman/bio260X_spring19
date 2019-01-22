@@ -19,7 +19,7 @@ Week <- c(1:5)
 Date <- c("01/23","01/30","02/06","02/13","02/20")
 Topic <- c("Intro","Using Genomes to Understand the Tree of Life","Week 2 Discussion","Oyster Genomes: Out of the Shell","Week 4 Discussion")
 Speaker <- c("Instructors","Bob Literman","Instructors","Erin Roberts","Instructors")
-Supplement <- c("","","","")
+Supplement <- c("","","","","")
 
 meetings <- cbind(Week,Date,Topic, Speaker, Supplement)
 
