@@ -11,3 +11,5 @@ navbar:
       href: policies.html
     - text: "Schedule"
       href: schedule.html
+    - text: "Write-Ups"
+      href: writeups.html
