@@ -16,12 +16,19 @@ library(kableExtra)
 
 ```{r, warning=FALSE}
 Week <- c(1:14)
-Date <- c("01/23","01/30","02/06","02/13","02/20","02/27","03/06","03/13","03/20","03/27","04/03","04/10","04/17","04/24")
-Topic <- c("Intro","","","","","","","Spring Break","","","","","","")
-Speaker <- c("Instructors","","","","","","","Spring Break","","","","","","")
-Assignment <- c("","","","","","","","","Spring Break","","","","","")
 
-meetings <- cbind(Week,Date,Topic, Speaker, Assignment)
+Date <- c("01/23","01/30","02/06","02/13","02/20","02/27","03/06","03/13","03/20","03/27","04/03","04/10","04/17","04/24")
+
+Assignment <- c("","","","Week 2 Write-up","","Week 4 Write-up","","Spring Break","Week 6 Write-up","","Week 8 Write-up","","Week 10 Write-up","In-Class Write-up")
+
+Topic <- c("Intro","Using DNA Sequencing to Investigate Diatom and Bacterial Communities in Narragansett Bay","","Integrating 'Omics, Aquaculture, and Parasitology to Investigate Eastern Oyster Immunity to Disease","","","","Spring Break","","","","","Measuring microenvironments for global change: Using DIY environmental microcontroller units (EMUs) to collect climate data","")
+
+Speaker <-c("","Alexa Sterling","","Erin Roberts","","","","Spring Break","","","","","Dr. Timothy E. Moore","")
+Affiliation <- c("","URI","","URI","","","","Spring Break","","","","","UConn","")
+
+Lunch <-  c("","","","Available","","","","Spring Break","","","","","Available","")
+
+meetings <- cbind(Week,Date,Assignment,Topic,Speaker,Affiliation,Lunch)
 
 kable(meetings, "html") %>%  
   kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
