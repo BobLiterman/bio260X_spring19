@@ -21,15 +21,15 @@ Date <- c("01/23","01/30","02/06","02/13","02/20","02/27","03/06","03/13","03/20
 
 Assignment <- c("","","","Week 2 Write-up","","Week 4 Write-up","","Spring Break","Week 6 Write-up","","Week 8 Write-up","","Week 10 Write-up","In-Class Write-up")
 
-Topic <- c("Intro","Using DNA Sequencing to Investigate Diatom and Bacterial Communities in Narragansett Bay","Week 2 Discussion","Integrating 'Omics, Aquaculture, and Parasitology to Investigate Eastern Oyster Immunity to Disease","Week 4 Discussion","Tuna spawning in the Phoenix Islands Protected Area: Combining Field Data and Computational Methods","Week 6 Discussion","Spring Break","","Week 8 Discussion","","Week 10 Discussion","Measuring Microenvironments for Global Change: Using DIY Environmental Microcontroller Units (EMUs) to Collect Climate Data","Week 12 Discussion")
+Topic <- c("Intro","Using DNA Sequencing to Research Diatoms in Narragansett Bay","Week 2 Discussion","Integrating 'Omics, Aquaculture, and Parasitology to Investigate Eastern Oyster Immunity to Disease","Week 4 Discussion","Tuna spawning in the Phoenix Islands Protected Area: Combining Field Data and Computational Methods","Week 6 Discussion","Spring Break","Using Genomes to Retrace the Tree of Life","Week 8 Discussion","","Week 10 Discussion","Measuring Microenvironments for Global Change: Using DIY Environmental Microcontroller Units (EMUs) to Collect Climate Data","Week 12 Discussion")
 
-Speaker <-c("","Alexa Sterling","","Erin Roberts","","Christina Hernandez","","Spring Break","","","","","Dr. Timothy E. Moore","")
-Affiliation <- c("","University of Rhode Island","","University of Rhode Island","","Woods Hole Oceanographic Institute","","Spring Break","","","","","University of Connecticut","")
+Speaker <-c("","Alexa Sterling","","Erin Roberts","","Christina Hernandez","","Spring Break","Dr. Bob Literman","","","","Dr. Timothy E. Moore","")
+Affiliation <- c("","University of Rhode Island","","University of Rhode Island","","Woods Hole Oceanographic Institute","","Spring Break","University of Rhode Island/NSF","","","","University of Connecticut","")
 
-Lunch <-  c("","","","Available","","Available","","Spring Break","","","","","Available","")
+Lunch <-  c("","Available","","Available","","Available","","Spring Break","Available","","","","Available","")
 
 meetings <- cbind(Date,Week,Assignment,Topic,Speaker,Affiliation,Lunch)
 
-kable(meetings, "html",align="c") %>%  
+kable(meetings,"html",align="l") %>%  
   kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
 ```
