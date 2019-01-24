@@ -30,6 +30,6 @@ Lunch <-  c("","","","Available","","Available","","Spring Break","","","","","A
 
 meetings <- cbind(Date,Week,Assignment,Topic,Speaker,Affiliation,Lunch)
 
-kable(meetings, "html") %>%  
-  kable_styling(bootstrap_options = c("striped", "hover", "responsive"),full_width=F)
+kable(meetings, "html",align="c") %>%  
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
 ```
