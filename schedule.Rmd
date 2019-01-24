@@ -15,7 +15,7 @@ library(kableExtra)
 ## Meeting Schedule and Overview
 
 ```{r, warning=FALSE}
-Week <- c(1:14)
+Week <- c(1:7,"Spring Break",8:13)
 
 Date <- c("01/23","01/30","02/06","02/13","02/20","02/27","03/06","03/13","03/20","03/27","04/03","04/10","04/17","04/24")
 
