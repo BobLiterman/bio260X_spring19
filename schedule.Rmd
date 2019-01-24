@@ -28,8 +28,8 @@ Affiliation <- c("","University of Rhode Island","","University of Rhode Island"
 
 Lunch <-  c("","","","Available","","Available","","Spring Break","","","","","Available","")
 
-meetings <- cbind(Week,Date,Assignment,Topic,Speaker,Affiliation,Lunch)
+meetings <- cbind(Date,Week,Assignment,Topic,Speaker,Affiliation,Lunch)
 
 kable(meetings, "html") %>%  
-  kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive"),full_width=F)
 ```
