@@ -15,11 +15,11 @@ library(kableExtra)
 ## Meeting Schedule and Overview
 
 ```{r, warning=FALSE}
-Week <- c(1:5)
-Date <- c("01/23","01/30","02/06","02/13","02/20")
-Topic <- c("Intro","Using Genomes to Understand the Tree of Life","Week 2 Discussion","Integrating 'Omics, Aquaculture, and Parasitology to Investigate Eastern Oyster Immunity to Disease","Week 4 Discussion")
-Speaker <- c("Instructors","Bob Literman","Instructors","Erin Roberts","Instructors")
-Assignment <- c("","","","Week 2 Write-Up","")
+Week <- c(1:14)
+Date <- c("01/23","01/30","02/06","02/13","02/20","02/27","03/06","03/13","03/20","03/27","04/03","04/10","04/17","04/24")
+Topic <- c("Intro","","","","","","","Spring Break","","","","","","")
+Speaker <- c("Instructors","","","","","","","Spring Break","","","","","","")
+Assignment <- c("","","","","","","","","Spring Break","","","","","")
 
 meetings <- cbind(Week,Date,Topic, Speaker, Assignment)
 
