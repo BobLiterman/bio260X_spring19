@@ -11,5 +11,7 @@ navbar:
       href: policies.html
     - text: "Schedule"
       href: schedule.html
+    - text: "Course Materials"
+      href: materials.html
     - text: "Write-Ups"
       href: writeups.html
