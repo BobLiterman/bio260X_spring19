@@ -1,6 +1,6 @@
 ---
 title: "Class Materials"
-output: 
+output:
   html_document:
     toc: true
     toc_depth: 2
@@ -19,3 +19,20 @@ Courses: BIO104, BIO 263X (F 19), BIO 230 (Sp 20), STA 305, BIO 439 (Sp)
 [Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)  
 [Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)
 
+### Week 2 Lecture Resources
+
+#### General Resources  
+
+TED-Ed Talk on Diatoms  
+[The Secret Life of Plankton](https://www.ted.com/talks/the_secret_life_of_plankton/transcript?language=en)  
+
+National Centers for Coastal Ocean Science Image Gallery  
+[NCCOS Image Gallery](https://coastalscience.noaa.gov/research/stressor-impacts-mitigation/pmn/image-gallery/)  
+
+#### Application of Diatom Biology Research  
+[Biologists Find Diatom To Reduce Red Tide's Toxicity](https://www.sciencedaily.com/releases/2008/08/080820163241.htm)  
+[Lake Baikal: how climate change is threatening the world’s oldest, deepest lake](https://theconversation.com/lake-baikal-how-climate-change-is-threatening-the-worlds-oldest-deepest-lake-109389)  
+
+#### Local Rhody Press Coverage  
+[Shellfish harvesting closure continues in RI, MA](https://turnto10.com/news/local/shellfish-harvesting-closure-continues-in-ri-ma)  
+[Mysterious toxic algae that shut down RI shellfishing last fall is back](https://www.providencejournal.com/news/20170303/mysterious-toxic-algae-that-shut-down-ri-shellfishing-last-fall-is-back)  
