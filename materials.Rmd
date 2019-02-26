@@ -43,4 +43,4 @@ National Centers for Coastal Ocean Science Image Gallery
 [Wikipedia: Transcriptome](https://en.wikipedia.org/wiki/Transcriptome)  
 
 ### Week 6 Lecture Resources
-[Link to Presentation Slides](https://github.com/BobLiterman/bio260X_spring19/blob/master/Christina_Hernandez_Slides.pdf)  
+[Link to Presentation Slides](https://github.com/BobLiterman/bio260X_spring19/blob/master/Slides/Christina_Hernandez_Slides.pdf)  
