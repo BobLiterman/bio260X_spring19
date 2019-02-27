@@ -17,5 +17,6 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Learning R
 Courses: BIO104, BIO 263X (F 19), BIO 230 (Sp 20), STA 305, BIO 439 (Sp)  
 [Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)  
-[Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)
+[Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)  
+Hands-on 2-day intensive Data Carpentry Workshops are held prior to each semester
 
