@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Topic 1
 
+**[Recordings from another undergraduate seminar series on computational biology](https://www.youtube.com/playlist?list=PLV8dyTG7O7VaAdUsW791_yOxE51aFHCmY)**
+
 #### Learning R
 Courses: BIO104, BIO 263X (F 19), BIO 230 (Sp 20), STA 305, BIO 439 (Sp)  
 [Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)  
