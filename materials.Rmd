@@ -3,7 +3,7 @@ title: "Class Materials"
 output:
   html_document:
     toc: true
-    toc_depth: 2
+    toc_depth: 4
     toc_float: true
     theme: cosmo
 ---
@@ -14,10 +14,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Topic 1
 
+**[Recordings from another undergraduate seminar series on computational biology](https://www.youtube.com/playlist?list=PLV8dyTG7O7VaAdUsW791_yOxE51aFHCmY)**
+
 #### Learning R
 Courses: BIO104, BIO 263X (F 19), BIO 230 (Sp 20), STA 305, BIO 439 (Sp)  
 [Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)  
-[Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)
+[Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)  
+Hands-on 2-day intensive Data Carpentry Workshops are held prior to each semester
 
 ### Week 2 Lecture Resources
 
@@ -38,9 +41,10 @@ National Centers for Coastal Ocean Science Image Gallery
 [Mysterious toxic algae that shut down RI shellfishing last fall is back](https://www.providencejournal.com/news/20170303/mysterious-toxic-algae-that-shut-down-ri-shellfishing-last-fall-is-back)  
 
 ### Week 4 Lecture Resources
-[Link to Presentation Slides](https://github.com/BobLiterman/bio260X_spring19/blob/master/Slides/Erin_Roberts_Slides.pdf)  
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Erin_Roberts_Slides.pdf)  
 [URI researcher: Oyster aquaculture limits disease in wild oyster populations](https://www.thewesterlysun.com/news/charlestown/uri-researcher-oyster-aquaculture-limits-disease-in-wild-oyster-populations/article_6d77959e-07b3-11e9-98cf-53f4ac62e0ed.html)  
 [Wikipedia: Transcriptome](https://en.wikipedia.org/wiki/Transcriptome)  
 
 ### Week 6 Lecture Resources
-[Link to Presentation Slides](https://github.com/BobLiterman/bio260X_spring19/blob/master/Slides/Christina_Hernandez_Slides.pdf)  
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Christina_Hernandez_Slides.pdf)  
+[SEA Summer or Semester - apply now](https://www.sea.edu/)
