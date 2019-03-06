@@ -48,3 +48,23 @@ National Centers for Coastal Ocean Science Image Gallery
 ### Week 6 Lecture Resources
 [Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Christina_Hernandez_Slides.pdf)  
 [SEA Summer or Semester - apply now](https://www.sea.edu/)
+
+### Week 6 Discussion Notes
+#### Speaker: Christina Hernandez  (WHOI/MIT)
+
+#### Research Summary:
+- Source of the  model parameters?
+- Running simulations multiple times to sort  out randomness
+- Particle Backtracking: Combining models of ocean current and end point of imaginary particles to simulate possible origin points
+- What are the particles?
+- Imagine a  computer simulation of how the ocean moves, like a movie of the ocean
+- The computer can imagine dropping MANY  tiny  little beads into a spot on the water, and  mapping their route based on the model of ocean currents
+
+#### Further Research:
+- What explains the robustness of the larval tuna in  years with drastically different climate conditions?
+- What are the tolerances of larval tuna?
+- Do environmental conditions buffer larvae from extreme conditions?
+- What defines a good catch zone? How important  is having longer term data?
+- Longer-term study with an aim towards  redefining the protected zone
+- Physical surveys looking for adult tuna spawning behavior
+- Common garden to test ideal spawning conditions
