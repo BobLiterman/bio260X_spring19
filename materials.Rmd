@@ -68,3 +68,6 @@ National Centers for Coastal Ocean Science Image Gallery
 - Longer-term study with an aim towards  redefining the protected zone
 - Physical surveys looking for adult tuna spawning behavior
 - Common garden to test ideal spawning conditions
+
+### Week 8 Lecture Resources
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Literman_Bio260X.pdf)  
