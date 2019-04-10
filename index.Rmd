@@ -1,6 +1,6 @@
 ---
 title: "BIO 260X URI Spring 2019"
-subtitle: "Seminar in Biologal Sciences"
+subtitle: "Seminar in Biological Sciences"
 author: "Instructors: Bob Literman, Rachel Schwartz"
 output:
   html_document:

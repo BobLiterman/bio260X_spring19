@@ -69,5 +69,8 @@ National Centers for Coastal Ocean Science Image Gallery
 - Physical surveys looking for adult tuna spawning behavior
 - Common garden to test ideal spawning conditions
 
-### Week 8 Lecture Resources
-[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Literman_Bio260X.pdf)  
+### Week 8 Lecture Resources  
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Literman_Bio260X.pdf)
+
+### Week 10 Lecture Resources  
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/CThawley_Bio260X_Share.pdf)
