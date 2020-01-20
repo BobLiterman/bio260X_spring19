@@ -26,7 +26,7 @@ Topic <- c("Intro","Coral Ecophysiology","Week 2 Discussion","Bioarchaeology","W
 Speaker <-c("","Emma Strand","","Rachel Kalisher","","Aaron Olsen","","","","","","","","")
 Affiliation <- c("","University of Rhode Island","","Brown University","","Brown University","","","","","","","","")
 
-Lunch <-  c("","TBD","","TBD","","TBD","","",TBD"","","TBD","","TBD","")
+Lunch <-  c("","TBD","","TBD","","TBD","","","TBD","","TBD","","TBD","")
 
 meetings <- cbind(Date,Week,Assignment,Topic,Speaker,Affiliation,Lunch)
 
