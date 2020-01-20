@@ -17,60 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 **[Recordings from another undergraduate seminar series on computational biology](https://www.youtube.com/playlist?list=PLV8dyTG7O7VaAdUsW791_yOxE51aFHCmY)**
 
 #### Learning R
-Courses: BIO104, BIO 263X (F 19), BIO 230 (Sp 20), STA 305, BIO 439 (Sp)  
+Courses: BIO104, BIO 230 (Sp 20), STA 305, BIO 439 (Sp)  
 [Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)  
 [Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)  
 Hands-on 2-day intensive Data Carpentry Workshops are held prior to each semester
 
-### Week 2 Lecture Resources
-
-#### General Resources  
-
-TED-Ed Talk on Diatoms  
-[The Secret Life of Plankton](https://www.ted.com/talks/the_secret_life_of_plankton/transcript?language=en)  
-
-National Centers for Coastal Ocean Science Image Gallery  
-[NCCOS Image Gallery](https://coastalscience.noaa.gov/research/stressor-impacts-mitigation/pmn/image-gallery/)  
-
-#### Application of Diatom Biology Research  
-[Biologists Find Diatom To Reduce Red Tide's Toxicity](https://www.sciencedaily.com/releases/2008/08/080820163241.htm)  
-[Lake Baikal: how climate change is threatening the world’s oldest, deepest lake](https://theconversation.com/lake-baikal-how-climate-change-is-threatening-the-worlds-oldest-deepest-lake-109389)  
-
-#### Local Rhody Press Coverage  
-[Shellfish harvesting closure continues in RI, MA](https://turnto10.com/news/local/shellfish-harvesting-closure-continues-in-ri-ma)  
-[Mysterious toxic algae that shut down RI shellfishing last fall is back](https://www.providencejournal.com/news/20170303/mysterious-toxic-algae-that-shut-down-ri-shellfishing-last-fall-is-back)  
-
-### Week 4 Lecture Resources
-[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Erin_Roberts_Slides.pdf)  
-[URI researcher: Oyster aquaculture limits disease in wild oyster populations](https://www.thewesterlysun.com/news/charlestown/uri-researcher-oyster-aquaculture-limits-disease-in-wild-oyster-populations/article_6d77959e-07b3-11e9-98cf-53f4ac62e0ed.html)  
-[Wikipedia: Transcriptome](https://en.wikipedia.org/wiki/Transcriptome)  
-
-### Week 6 Lecture Resources
-[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Christina_Hernandez_Slides.pdf)  
-[SEA Summer or Semester - apply now](https://www.sea.edu/)
-
-### Week 6 Discussion Notes
-#### Speaker: Christina Hernandez  (WHOI/MIT)
-
-#### Research Summary:
-- Source of the  model parameters?
-- Running simulations multiple times to sort  out randomness
-- Particle Backtracking: Combining models of ocean current and end point of imaginary particles to simulate possible origin points
-- What are the particles?
-- Imagine a  computer simulation of how the ocean moves, like a movie of the ocean
-- The computer can imagine dropping MANY  tiny  little beads into a spot on the water, and  mapping their route based on the model of ocean currents
-
-#### Further Research:
-- What explains the robustness of the larval tuna in  years with drastically different climate conditions?
-- What are the tolerances of larval tuna?
-- Do environmental conditions buffer larvae from extreme conditions?
-- What defines a good catch zone? How important  is having longer term data?
-- Longer-term study with an aim towards  redefining the protected zone
-- Physical surveys looking for adult tuna spawning behavior
-- Common garden to test ideal spawning conditions
-
-### Week 8 Lecture Resources  
-[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/Literman_Bio260X.pdf)
-
-### Week 10 Lecture Resources  
-[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring19/Slides/CThawley_Bio260X_Share.pdf)
