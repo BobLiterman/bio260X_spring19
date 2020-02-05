@@ -22,3 +22,6 @@ Courses: BIO104, BIO 230 (Sp 20), STA 305, BIO 439 (Sp)
 [Self-guided tutorial with Data Carpentry](https://datacarpentry.org/R-ecology-lesson/)  
 Hands-on 2-day intensive Data Carpentry Workshops are held prior to each semester
 
+#### Week 2 (Emma Strand)
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring20/Slides/Emma_Strand_Slides.pdf)
+[Link to Chasing Coral Trailer (Netflix)](https://www.youtube.com/watch?v=b6fHA9R2cKI)
