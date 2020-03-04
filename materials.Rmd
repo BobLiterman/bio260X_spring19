@@ -26,3 +26,6 @@ Hands-on 2-day intensive Data Carpentry Workshops are held prior to each semeste
 [Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring20/Slides/Emma_Strand_Slides.pdf)  
 [Link to Chasing Coral Trailer (Netflix)](https://www.youtube.com/watch?v=b6fHA9R2cKI)  
 [Link to Twitter Thread](https://threadreaderapp.com/thread/1222550572848549888.html)  
+
+#### Week 6 (Aaron Olsen)  
+[Link to Presentation Slides](https://BobLiterman.github.io/bio260X_spring20/Slides/Aaron_Olsen_Slides.pdf)  
